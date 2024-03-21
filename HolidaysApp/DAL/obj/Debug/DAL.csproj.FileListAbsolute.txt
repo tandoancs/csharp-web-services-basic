@@ -1,0 +1,9 @@
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\bin\Debug\DAL.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\bin\Debug\DAL.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\bin\Debug\DTO.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\bin\Debug\DTO.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\obj\Debug\DAL.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DAL\obj\Debug\DAL.pdb

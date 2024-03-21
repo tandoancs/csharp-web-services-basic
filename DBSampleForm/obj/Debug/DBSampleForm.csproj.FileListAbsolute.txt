@@ -1,0 +1,13 @@
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\bin\Debug\DBSampleForm.exe.config
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\bin\Debug\DBSampleForm.exe
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\bin\Debug\DBSampleForm.pdb
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\bin\Debug\DAL.dll
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\bin\Debug\DAL.pdb
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.csproj.AssemblyReference.cache
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.Form1.resources
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.Properties.Resources.resources
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.csproj.GenerateResource.cache
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.csproj.CopyComplete
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.exe
+C:\Users\0138429\source\repos\WindowsForm\DBSampleForm\obj\Debug\DBSampleForm.pdb

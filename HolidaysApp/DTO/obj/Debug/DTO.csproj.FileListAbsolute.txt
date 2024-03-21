@@ -1,0 +1,5 @@
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DTO\bin\Debug\DTO.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DTO\bin\Debug\DTO.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DTO\obj\Debug\DTO.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\DTO\obj\Debug\DTO.pdb

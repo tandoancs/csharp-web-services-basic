@@ -1,0 +1,17 @@
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\HolidaysApp.exe.config
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\HolidaysApp.exe
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\HolidaysApp.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\BUS.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\DAL.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\DTO.dll
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\BUS.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\DAL.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\bin\Debug\DTO.pdb
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.csproj.AssemblyReference.cache
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.HolidaysForm.resources
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.Properties.Resources.resources
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.csproj.GenerateResource.cache
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.csproj.CoreCompileInputs.cache
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.csproj.CopyComplete
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.exe
+C:\Users\0138429\source\repos\WebService_SentToClass\HolidaysApp\obj\Debug\HolidaysApp.pdb
